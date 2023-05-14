@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    font-size: 16px;
+    line-height: 20px;
+    background-image: url(../img/sky.jpg);
+
+}
+.container{
+    display: flex;
+    margin: 20px;
+    width: 900px;
+
+}
+.categories, .products, .details{
+    display: inline-block;
+    width: 270px;
+    height: 300px;
+    border: 2px solid darkblue;
+}
+
+div{
+    display: block;
+    width: 245px;
+    height: 30px;
+   
+    margin: 10px;
+    text-align: center;
+    font-weight: 600;
+    padding-top: 5px;
+    background-color: blanchedalmond;
+} 
+
