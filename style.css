@@ -29,4 +29,23 @@ div{
     padding-top: 5px;
     background-color: blanchedalmond;
 } 
+button{
+    margin-top: 70px;
+    margin-left: 10px;
+    width: 130px;
+    height: 50px;
+    background-color: darkgreen;
+    color: white;
+    font-weight: 600;
+    font-size: 18px;
+    border-radius: 10px;
+    text-align: center;
+   
+}
+button:hover{
+    color: darkturquoise;
+}
+
+
+
 
